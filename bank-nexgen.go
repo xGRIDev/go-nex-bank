@@ -18,7 +18,7 @@ func main() {
 		fmt.Println(err)
 		fmt.Println("---------")
 	}
-	fmt.Println("NEXGEN - BANK")
+	fmt.Println("GoNex - BANK")
 	fmt.Println("Reach Us 24/7", randomdata.PhoneNumber())
 	for {
 		presentOptions()
